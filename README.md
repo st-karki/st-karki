@@ -4,7 +4,7 @@
 
 ```bash
 $ kubectl get mood
-NAME    READY   STATUS    AGE
+NAME    READY   STATUS        AGE
 dev     1/1     Caffeinated   24/7
 prod    1/1     Monitoring    Always
 ```
